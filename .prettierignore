@@ -1,0 +1,6 @@
+#ignoring Prettier to Format
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
